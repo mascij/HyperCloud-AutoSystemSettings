@@ -1,4 +1,4 @@
-# HyperCloud Portal Automated System Settings
+# HyperCloud Portal Automated System Settings Tool
 
 This tool will read from a file, systemSettings.txt, and apply those to a running HyperCloud instance for reliable and programmatic configuration. 
 
