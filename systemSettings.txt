@@ -1,4 +1,4 @@
-RabbitMQ_IP='10.0.8.47'
+RabbitMQ_IP=10.0.8.47
 RabbitMQ_Port=5671
 Agent_Location=https://repo.skygrid.cloud/repo/5.0.0/agents/hcp_linux_agent.sh
 Base_URL=https://10.0.8.47
